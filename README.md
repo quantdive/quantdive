@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @quantdive
-- 👀 I’m interested in python and quant
-- 🌱 I’m currently learning python and financial mathematics
+- 👀 I’m interested in python and ML/DL
 - 📫 How to reach me zhao.hw@outlook.com
 
 <!---
